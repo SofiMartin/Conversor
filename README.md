@@ -26,7 +26,8 @@ El punto de entrada principal del programa. Aquí se maneja la interacción con 
 
 # 👨‍💻 Desarrollado por
 María Sofía Martín
-Instrucciones de Uso 🚀
+
+# Instrucciones de Uso 🚀
 Clona este repositorio en tu máquina local.
 Abre el proyecto en IntelliJ IDEA u otro IDE de tu elección.
 Ejecuta la clase Principal.java para iniciar el programa.
